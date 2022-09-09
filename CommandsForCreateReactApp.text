@@ -1,0 +1,3 @@
+npm i webpack babel-loader @babel/preset-react html-webpack-plugin webpack-dev-server webpack-cli css-loader style-loader @babel/plugin-proposal-class-properties -D
+
+npm install react react-dom -S
